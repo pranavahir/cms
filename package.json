@@ -1,0 +1,19 @@
+{
+  "name": "simple-graphql-yoga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.1.2",
+    "apollo-server-express": "^3.1.2",
+    "express": "^4.17.1",
+    "graphql-upload": "^12.0.0",
+    "graphql-yoga": "^1.8.5"
+  }
+}
